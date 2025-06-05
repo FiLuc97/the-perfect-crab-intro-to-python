@@ -12,7 +12,8 @@ from lib.helpers import check_that_these_are_equal
 
 # YOUR FUNCTION GOES BELOW THIS LINE
 
-
+def add_two(num): # def = define a function. add_two is the name of the function. Take the nyumber as input and it is called 'num'. Add a : which means you will now need to start a new block of code, hence it being on the line at the bottom.   
+  return num + 2
 
 # YOUR FUNCTION GOES ABOVE THIS LINE
 

@@ -38,7 +38,7 @@ added = 2 + 3
 # >>>
 # ```
 #
-# You can then type in 'exit()' to leave Python.
+# You can then type in 'exit()' to leave Python. - ctrl D will exit Python as well
 #
 # So we get 14! Python executes the multiplication first, and then the addition.
 # We can control this using brackets.

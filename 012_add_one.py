@@ -2,7 +2,7 @@
 
 # Let's create a more useful function:
 
-def add_one(num):
+def add_one(num): #def = define
   return num + 1
 
 # Here is how it used:
